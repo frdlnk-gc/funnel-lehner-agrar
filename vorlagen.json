@@ -1,0 +1,62 @@
+{
+ "firma": "LEHNER Agrar",
+ "p": "#017479",
+ "stelle": "Verkaufsberater Ackerbau (m/w/d)",
+ "ort": "Westerstetten",
+ "umg": "Westerstetten · Ulm · Langenau",
+ "zentrum": [
+  48.5161128,
+  9.9579209
+ ],
+ "logo": "logo-hd.png",
+ "pola": [
+  [
+   "Unser Lager",
+   "raw/f1-silos-full.jpg",
+   "50% 55%",
+   75,
+   335,
+   -5
+  ],
+  [
+   "Dinkel-Saatgut",
+   "raw/f5-dinkel-saatgut-full.jpg",
+   "50% 50%",
+   560,
+   310,
+   4
+  ],
+  [
+   "Unser Team",
+   "raw/f6-mitarbeiter-pc-full.jpg",
+   "60% 40%",
+   255,
+   705,
+   -2
+  ]
+ ],
+ "pola_size": 56,
+ "pola_zoom": "cover",
+ "tk_photo": [
+  "raw/f1-silos-full.jpg",
+  "50% 50%"
+ ],
+ "tk_felder": [
+  [
+   "STELLE",
+   "Verkaufs&shy;berater Ackerbau (m/w/d)"
+  ],
+  [
+   "ARBEITSORT",
+   "Westerstetten (89198)"
+  ],
+  [
+   "VERTRAG",
+   "Unbefristet"
+  ],
+  [
+   "EXTRA",
+   "Jahresprämie"
+  ]
+ ]
+}

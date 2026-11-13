@@ -1,0 +1,23 @@
+{
+ "name": "V01-karten-hook",
+ "logo": "logo-hd.png",
+ "foto": "raw/f4-halle-elevator-full.jpg",
+ "fokus": [
+  0.5,
+  0.45
+ ],
+ "karte": "img/karte-osm.jpg",
+ "osm_credit": false,
+ "primary": "#017479",
+ "headline": [
+  "VERKAUFS-",
+  "BERATER",
+  "ACKERBAU"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Westerstetten · Ulm & Umgebung"
+}

@@ -1,0 +1,39 @@
+[
+ {
+  "logo": "logo-hd.png",
+  "primary": "#017479",
+  "headline": [
+   "Verkaufsberater",
+   "Ackerbau (m/w/d)"
+  ],
+  "name": "V02-wir-suchen",
+  "foto": "raw/f1-silos-full.jpg",
+  "panel": "top",
+  "panel_hoehe": 0.56,
+  "fokus": [
+   0.5,
+   0.5
+  ],
+  "kicker": "WIR SUCHEN IN WESTERSTETTEN",
+  "subline": "Unbefristet – mit Jahresprämie, Urlaubs- und Weihnachtsgeld.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten"
+ },
+ {
+  "logo": "logo-hd.png",
+  "primary": "#017479",
+  "headline": [
+   "Verkaufsberater",
+   "Ackerbau (m/w/d)"
+  ],
+  "name": "V02-wir-suchen",
+  "format": "9x16",
+  "foto": "raw/f2-luftbild-full.jpg",
+  "zoom_9x16": 1.0,
+  "fokus_9x16": [
+   0.5,
+   0.3
+  ],
+  "kicker": "WESTERSTETTEN (89198)",
+  "cta": "Job-Angebot in 60 Sek. erhalten"
+ }
+]

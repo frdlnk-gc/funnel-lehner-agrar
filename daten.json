@@ -1,0 +1,135 @@
+{
+ "firma": "LEHNER Agrar",
+ "stelle": "Verkaufsberater Ackerbau (m/w/d)",
+ "ort": "Westerstetten",
+ "plz": "89198",
+ "branche": "landwirtschaft",
+ "stelle_id": 1467,
+ "farbe_primary": "#017479",
+ "farbe_secondary": "#2B2B2B",
+ "region_badge": "Westerstetten & Umgebung",
+ "benefit_top": "Jahresprämie, Urlaubs- & Weihnachtsgeld",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Jahresprämie",
+  "Urlaubs- & Weihnachtsgeld",
+  "Betriebliche Altersvorsorge & vermögenswirksame Leistungen",
+  "Fahrtkostenzuschuss",
+  "Jobrad-Leasing",
+  "Firmenhandy",
+  "Kostenübernahme für berufliche Zertifizierungen",
+  "Keine Montageeinsätze mit Übernachtung",
+  "Flache Hierarchien – bei uns hat der Recht, der Recht hat",
+  "Getränke-Flatrate"
+ ],
+ "aufgaben": [
+  "Du berätst unsere Kunden im Ackerbau",
+  "Du berätst bei der Sortenwahl für Getreide und Raps",
+  "Du berätst in der Düngung",
+  "Du handelst mit Getreide und Raps",
+  "Du koordinierst unsere Dinkel-Entspelzungsanlage"
+ ],
+ "anforderung": "Erfahrung im Ackerbau und in Sorten, Fachwissen rund um Saatgut, Pflanzenschutz, Düngung und Getreidehandel, ein guter Umgang mit Kunden und Kollegen und Weitsicht. Idealerweise bringst du Kenntnisse im randomisierten Versuchswesen mit.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Landwirtschaft / Ackerbau",
+   "icon": "🌾",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung (z. B. Landwirt)",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Agrar-Studium",
+     "icon": "📚"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Agrarhandel / Beratung / Vertrieb",
+   "icon": "🤝",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung (z. B. Landwirt)",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Agrar-Studium",
+     "icon": "📚"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Studium in anderem Fach",
+     "icon": "📚"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "20.000 t",
+    "label": "Getreide-Lager"
+   },
+   {
+    "zahl": "~30 %",
+    "label": "Marktanteil Dinkel-Saatgut"
+   },
+   {
+    "zahl": "1988",
+    "label": "gegründet"
+   }
+  ],
+  "text": "Die LEHNER Agrar GmbH ist ein klassischer Landhandel mit 20.000 Tonnen Getreide-Lagerkapazität und einem eigenen randomisierten Versuchsfeld. Die Besonderheit: LEHNER entspelzt Dinkel zu Saatgutzwecken, ohne die Keimfähigkeit zu beschädigen – und erreicht damit bei konventioneller Ware einen Marktanteil von rund 30 % in Deutschland. Dazu kommt ein starker Export von Konsum-Dinkel. Durch diese breite, spezialisierte Aufstellung ist das Unternehmen weitgehend unabhängig von politischen Entscheidungen – ertragsstark und zukunftsfähig."
+ },
+ "kunde_tab": "53 LEHNER Agrar",
+ "quelle": "https://lehner-agrar.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Westerstetten (89198)"
+ },
+ "hero_bild": "img/hero-silos.jpg",
+ "bilder": [
+  "img/f1-silos.jpg",
+  "img/f2-luftbild.jpg",
+  "img/f3-betriebsgebaeude.jpg",
+  "img/f4-halle-elevator.jpg",
+  "img/f5-dinkel-saatgut.jpg",
+  "img/f6-mitarbeiter-pc.jpg",
+  "img/f7-buero.jpg"
+ ],
+ "meta_geo": [
+  "Häuslesäcker 5, 89198 Westerstetten"
+ ]
+}
