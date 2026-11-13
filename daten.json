@@ -98,8 +98,8 @@
  "ueber": {
   "fakten": [
    {
-    "zahl": "20.000 t",
-    "label": "Getreide-Lager"
+    "zahl": "20.000",
+    "label": "Tonnen Getreide-Lager"
    },
    {
     "zahl": "~30 %",
